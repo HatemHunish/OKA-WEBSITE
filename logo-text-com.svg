@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="65.083542mm"
+   height="17.851549mm"
+   viewBox="0 0 65.083542 17.851549"
+   version="1.1"
+   id="svg112036"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs112033">
+    <rect
+       x="491.93558"
+       y="449.27451"
+       width="236.36433"
+       height="135.73047"
+       id="rect13357" />
+  </defs>
+  <g
+     id="layer1"
+     transform="translate(-43.241767,-129.49079)">
+    <text
+       xml:space="preserve"
+       transform="matrix(0.26458333,0,0,0.26458333,-87.676855,7.5149311)"
+       id="text13355"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:64px;line-height:0;font-family:'Gill Sans MT';-inkscape-font-specification:'Gill Sans MT';white-space:pre;shape-inside:url(#rect13357);fill:#025a64;fill-opacity:1;stroke:none"><tspan
+         x="491.93555"
+         y="505.29236"
+         id="tspan123823"><tspan
+           style="line-height:1.25"
+           id="tspan123821">OKA</tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:6.35px;line-height:1.25;font-family:sans-serif;letter-spacing:0.560917px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="57.726643"
+       y="147.24622"
+       id="text53168"><tspan
+         id="tspan53166"
+         style="font-size:6.35px;fill:#000000;fill-opacity:1;stroke-width:0.264583"
+         x="57.726643"
+         y="147.24622"
+         rotate="0 0 0 0 0 0 0 0 0 0 0 0"
+         dx="0">TRANSLATION</tspan></text>
+  </g>
+</svg>

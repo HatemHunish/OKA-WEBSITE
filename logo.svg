@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="100.066505px"
+   height="100.190018px"
+   viewBox="0 0 86.066505 76.190018"
+   version="1.1"
+   id="svg5"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs2">
+    <rect
+       x="491.93558"
+       y="449.27451"
+       width="236.36433"
+       height="135.73047"
+       id="rect13357" />
+  </defs>
+  <g
+     id="layer1"
+     transform="translate(-46.56057,-98.412109)">
+    <rect
+       style="fill:#025a64;fill-opacity:1;fill-rule:evenodd;stroke-width:0.264583"
+       id="rect31"
+       width="86.066505"
+       height="76.190018"
+       x="46.56057"
+       y="98.412109" />
+    <rect
+       style="fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:1.065;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect8140"
+       width="61.022564"
+       height="56.789787"
+       x="59.082542"
+       y="108.11223" />
+    <rect
+       style="fill:#025a64;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1.07648;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect100009"
+       width="45.855106"
+       height="21.802832"
+       x="84.655579"
+       y="116.55635" />
+    <text
+       xml:space="preserve"
+       transform="matrix(0.26458333,0,0,0.26458333,-40.573556,-2.5761049)"
+       id="text13355"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:64px;line-height:0;font-family:'Gill Sans MT';-inkscape-font-specification:'Gill Sans MT';white-space:pre;shape-inside:url(#rect13357);fill:#ffffff;fill-opacity:1;stroke:none"><tspan
+         x="491.93555"
+         y="505.29236"
+         id="tspan111942"><tspan
+           style="line-height:1.25"
+           id="tspan111940">OKA</tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:4.23333px;line-height:1.25;font-family:sans-serif;letter-spacing:0.560917px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="90.324791"
+       y="135.48474"
+       id="text53168"><tspan
+         id="tspan53166"
+         style="font-size:4.23333px;fill:#ffffff;fill-opacity:1;stroke-width:0.264583"
+         x="90.324791"
+         y="135.48474"
+         rotate="0 0 0 0 0 0 0 0 0 0 0 0"
+         dx="0">TRANSLATION</tspan></text>
+  </g>
+</svg>
